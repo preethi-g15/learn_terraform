@@ -1,2 +1,2 @@
 # b78am
-To create CICD Pipeline
+To Create CI/CD Pipeline
